@@ -26,4 +26,4 @@ Flights from American Airlines are currently unavailable.
 * [FlightAPI](https://www.flightapi.io/docs/)
 
 ## Direct Integrations
-* [British Airways] (https://developer.iairgroup.com/british_airways)
+* [British Airways](https://developer.iairgroup.com/british_airways)
