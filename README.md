@@ -17,11 +17,8 @@ These are going to be more complex to integrate with - but have more supported a
 * [Amadeus](https://developers.amadeus.com/self-serviced)\
 Flights from low-cost carriers are currently unavailable.\
 Flights from American Airlines are currently unavailable.
-
-
 * [Sabre](https://developer.sabre.com/homed)
 * [Travelport](https://support.travelport.com/webhelp/uapi/uAPI.htm#Introduction.htm%3FTocPath%3D_____1d)
-
 
 ## Avaliable flight API Aggregators:
 * [Google Flights API](https://news.ycombinator.com/item?id[15594975d) - Depriciated
