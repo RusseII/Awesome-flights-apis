@@ -5,7 +5,7 @@ List of all current info for flight apis
 ### Inspiration
 Information about flight APIs seems to be scattered. I wanted to do a project using flight data - and it took a significant amount of research time to figure out what I wanted to do wasn't realistic. 
 
-The biggest issue is that each of the flight API's only use a subset of the total airlines. This obviously makes it harder to find the cheapest & most convient route. On some of the flight API's [like skyscanner] there is a very small rate limit, making it infeasable for doing clever searchs. 
+The biggest issue is that each of the flight API's only use a subset of the total airlines. This obviously makes it harder to find the cheapest & most convient route. On some of the flight API's (like skyscanner) there is a very small rate limit, making it infeasable for doing clever searchs. 
 
 There are really three options you can take moving forward.
 1. GDSs
